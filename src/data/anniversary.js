@@ -168,9 +168,9 @@ export const anniversaryData = {
       message:
         "Aku mau mengajak kamu untuk pergi dating bareng. Bukan cuma jalan biasa, tapi waktu khusus untuk kita berdua, menikmati hari, cerita, dan kebersamaan seperti yang selalu aku suka saat sama kamu.",
       dateLabel: "Tanggal",
-      dateValue: "Sabtu, 21 Maret 2026",
+      dateValue: "xxxx, xx xxxx 2026",
       timeLabel: "Waktu",
-      timeValue: "16.00 WIB",
+      timeValue: "xx.xx WIB",
       placeLabel: "Tempat",
       placeValue: "Rahasia dulu, nanti aku kasih tahu 🤍",
       hintLabel: "Hint lokasi",
